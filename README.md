@@ -5,4 +5,4 @@
 
 Coleção de arquivos elaborados durante aulas de nível iniciante em Lógica de Programação com Javascript;
 <br><br>
-Também vou adicionar algumas ferramentas criadas ao longo dos cursos;
+Também serão adicionadas algumas ferramentas criadas ao longo dos cursos;
