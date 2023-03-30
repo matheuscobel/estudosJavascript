@@ -80,6 +80,11 @@ console.log(number + numberstring);  //vai ocorrer uma concatenação e a variá
 
 
 
-//conversão explícita - permite que nós convertamos um tipo em outro Number() ou String();
+//conversão explícita - permite que nós convertamos um tipo em outro; Number() ou String();
 
 console.log(number + Number(numberstring));
+
+//a conversão explícita também pode acontecer dentro da const e obter o mesmo resultado:
+// const numberstring = Number("456"); 
+
+//se tentar fazer uma conversão explícita de Number() com um algarismo (ex:"456a"), o resultado será NaN;
