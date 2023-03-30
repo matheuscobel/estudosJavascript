@@ -85,6 +85,6 @@ console.log(number + numberstring);  //vai ocorrer uma concatenação e a variá
 console.log(number + Number(numberstring));
 
 //a conversão explícita também pode acontecer dentro da const e obter o mesmo resultado:
-// const numberstring = Number("456"); 
+// const numberstring = Number("456");;
 
 //se tentar fazer uma conversão explícita de Number() com um algarismo (ex:"456a"), o resultado será NaN;
