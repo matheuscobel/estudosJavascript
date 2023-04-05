@@ -67,8 +67,8 @@ const apresentarArrow = nome => `meu nome é ${nome}`; //é semelhante à expres
 const soma4 = (num3, num4) => num3 + num4;
 
 
-const somaNumerosPequenos = (num3 + num4) => { //a arrow function também pode ser usada para expressões com mais de um return
-    if (num3 > 10 || num4 > 10) {
+const somaNumerosPequenos = (num1 , num2) => {    //a arrow function também pode ser usada para expressões com mais de um return;
+    if (num1> 10 || num2 > 10) {
     return "somente números de 1 a 9"
     } else {
         return num3 + num4;
